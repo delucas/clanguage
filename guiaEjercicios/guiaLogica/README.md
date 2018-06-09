@@ -54,7 +54,7 @@ Se busca resolver el siguiente problema: Colocar las palabras de modo tal que se
 
 * Ejercicio extraido desde "Learn Prolog Now! By: Patrick Blackburn, Johan Bos and Kristian Striegnitz"
 
-### Ejercicio 3 - Hernamos
+### Ejercicio 3 - Hermanos
 
 **NOTA**: Dos personas son hermanos si tienen un padre o madre en común
 Dada la siguiente base de datos de conocimentos:
